@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jan 2022 23:57:54 +0300</lastBuildDate><atom:link href="https://freak12techno.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>RU</title>
+      <link>https://freak12techno.github.io/ru/</link>
+      <pubDate>Wed, 05 Jan 2022 23:57:54 +0300</pubDate>
+      
+      <guid>https://freak12techno.github.io/ru/</guid>
+      <description>Всем привет!
+Меня зовут Сергей и я занимаюсь backend-разработкой и DevOps.
+ Место проживания: Москва, Россия Языки: Русский, английский Что я умею: Backend разработка, DevOps, мониторинг Хобби: Написание музыки, волонтерство, фотография, путешествия   Опыт В своей жизни я работал с следующими вещами:
+ Go JavaScript Java Docker Базы данных: PostgreSQL, MongoDB, Redis Мониторинг: Prometheus + Grafana Аггрегация логов: ElasticSearch + Logstash + Kibana + Filebeat Администрирование веб серверов на Linux   Места работы Railsmob | Backend разработчик | март 2016 - октябрь 2016</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://freak12techno.github.io/about/</link>
       <pubDate>Wed, 05 Jan 2022 23:49:23 +0300</pubDate>
