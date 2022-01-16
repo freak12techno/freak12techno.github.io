@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Sergey&#39;s website</title>
+    <title>freak12techno | Home on Sergey&#39;s website</title>
     <link>https://freak12techno.github.io/</link>
-    <description>Recent content in Home on Sergey&#39;s website</description>
+    <description>Recent content in freak12techno | Home on Sergey&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jan 2022 23:57:54 +0300</lastBuildDate><atom:link href="https://freak12techno.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>RU</title>
+      <title>freak12techno | Validators</title>
+      <link>https://freak12techno.github.io/validators/</link>
+      <pubDate>Wed, 05 Jan 2022 23:57:54 +0300</pubDate>
+      
+      <guid>https://freak12techno.github.io/validators/</guid>
+      <description>freak12techno&amp;rsquo;s Validator I am currently operating a validator on the following chains:
+ Sentinel  Technical overview  Top-notch 24/7 monitoring using Grafana + Prometheus Multiple servers hosted at different locations Using Ledger for signing all the transactions Failover servers in case things would go wrong with the main one  Why staking with freak12techno&amp;rsquo;s validator?  A lot of experience (10+ years) operating Linux servers (I do it as my full time job) 100% slash protection (in case the validator would ever go to jail, everyone would be refunded) 5% commission Active community participation (helping answering other people&amp;rsquo;s questions, developing tools etc.</description>
+    </item>
+    
+    <item>
+      <title>freak12techno | Домашняя</title>
       <link>https://freak12techno.github.io/ru/</link>
       <pubDate>Wed, 05 Jan 2022 23:57:54 +0300</pubDate>
       
