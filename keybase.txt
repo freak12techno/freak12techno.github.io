@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/technofreak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://freak12techno.github.io
+  * I am technofreak (https://keybase.io/technofreak) on keybase.
+  * I have a public key ASAMqX6ZqfSdsHAvgCx_X625JtMYguqf2OprA2-mRC8SXgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209e85a0ba83c8eae8c7132c264ba2c296100352ead1cfdb7dd5bb5e3bf689583b0a",
+      "host": "keybase.io",
+      "kid": "01200ca97e99a9f49db0702f802c7f5fadb926d31882ea9fd8ea6b036fa6442f125e0a",
+      "uid": "c148725d611448b35aed2b5d052a6b19",
+      "username": "technofreak"
+    },
+    "merkle_root": {
+      "ctime": 1642425637,
+      "hash": "dd21feff673771c4fdee7a6e35c9819ed0ca173aebe71fa73b07c58c3c72691ae685aeb5f9efa367348d7ea60d87db3fb50f5e2718ecec9ccc56e99c3ea44a0b",
+      "hash_meta": "2281191fc10598e46bc7ac5161d9639b5bfe8645474f3340d3c4328d08ab737c",
+      "seqno": 21653331
+    },
+    "service": {
+      "entropy": "cVhCOhdguktPIMlgYk1u+ovo",
+      "hostname": "freak12techno.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1642425665,
+  "expire_in": 504576000,
+  "prev": "ae93d36bb752a6286e2c577e53b3cc1315198e83d8defd3a5fae23c57c6dc7d5",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDKl+man0nbBwL4Asf1+tuSbTGILqn9jqawNvpkQvEl4Kp3BheWxvYWTESpcCHcQgrpPTa7dSpihuLFd+U7PMExUZjoPY3v06X64jxXxtx9XEIPH5vl9lojr9ojtAmaXs1ImkINLmFjCcwhGIpVHTS21yAgHCo3NpZ8RABFgDWYaruqQu+0Ih/nd4OlGxXwkzxzPGcujvKAnjSUDNzUqEpxXCBHLqAkvgJhmfgDVIY2FON/9cFxiSeef7A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMIbQXhuT1AhtTtsGHso2CNbJBBQoDwpFK3lra85YZ2Yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/technofreak
+
+==================================================================
