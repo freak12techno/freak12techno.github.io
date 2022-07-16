@@ -14,7 +14,7 @@
       
       <guid>https://freak12techno.github.io/validators/</guid>
       <description>freak12techno | Validators I am currently operating a validator on the following chains:
- Sentinel e-Money Konstellation (DARC) Bitsong Decentr Nomic Provenance  Technical overview  Top-notch 24/7 monitoring using Grafana + Prometheus Logging solution using ELK stack + Filebeat to see anomalies and observe app behavior even further Best security practices to make sure no other person can access our data Multiple servers hosted at different locations Using Ledger for signing all the transactions Failover servers in case things would go wrong with the main one  Why staking with freak12techno&amp;rsquo;s validator?</description>
+Sentinel e-Money Konstellation (DARC) Bitsong Decentr Nomic Provenance Technical overview Top-notch 24/7 monitoring using Grafana + Prometheus Logging solution using ELK stack + Filebeat to see anomalies and observe app behavior even further Best security practices to make sure no other person can access our data Multiple servers hosted at different locations Using Ledger for signing all the transactions Failover servers in case things would go wrong with the main one Why staking with freak12techno&amp;rsquo;s validator?</description>
     </item>
     
     <item>
@@ -25,8 +25,8 @@
       <guid>https://freak12techno.github.io/ru/</guid>
       <description>Всем привет!
 Меня зовут Сергей и я занимаюсь backend-разработкой и DevOps.
- Место проживания: Москва, Россия Языки: Русский, английский Что я умею: Backend разработка, DevOps, мониторинг Хобби: Написание музыки, волонтерство, фотография, путешествия   Навыки В своей жизни я работал с следующими вещами:
- Go JavaScript Java Docker Базы данных: PostgreSQL, MongoDB, Redis Мониторинг: Prometheus + Grafana Аггрегация логов: ElasticSearch + Logstash + Kibana + Filebeat Администрирование веб серверов на Linux   Опыт работы Railsmob | Backend разработчик | март 2016 - октябрь 2016</description>
+Место проживания: Москва, Россия Языки: Русский, английский Что я умею: Backend разработка, DevOps, мониторинг Хобби: Написание музыки, волонтерство, фотография, путешествия Навыки В своей жизни я работал с следующими вещами:
+Go JavaScript Java Docker Базы данных: PostgreSQL, MongoDB, Redis Мониторинг: Prometheus + Grafana Аггрегация логов: ElasticSearch + Logstash + Kibana + Filebeat Администрирование веб серверов на Linux Опыт работы Railsmob | Backend разработчик | март 2016 - октябрь 2016</description>
     </item>
     
   </channel>
